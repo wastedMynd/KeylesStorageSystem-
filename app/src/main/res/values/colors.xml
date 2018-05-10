@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff40b6</color>
+    <color name="colorAccentDark">#aaff40b6</color>
+
+    <color name="colorAndroidAccent">#6ab344</color>
+    <color name="colorRaspberryPiAccent">#bc1142</color>
+
+    <color name="colorItemSelectedAccent">#ff0049</color>
+    <color name="colorItemNormalAccent">#ff5686</color>
+    <color name="colorItemDisabledAccent">#766066</color>
+
+    <color name="colorHighTechAccent">#3c3f41</color>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_home">@drawable/ic_home_black_24dp</drawable>
+    <drawable name="ic_store">@drawable/ic_shopping_basket_black_24dp</drawable>
+    <drawable name="ic_retrieve">@drawable/ic_lock_open_black_24dp</drawable>
+    <drawable name="ic_help">@drawable/ic_question_answer_black_24dp</drawable>
+    <drawable name="ic_about_us">@drawable/ic_supervisor_account_black_24dp</drawable>
+</resources>

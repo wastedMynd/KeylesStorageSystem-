@@ -1,0 +1,80 @@
+<resources>
+    //Navigation strings
+    <string name="app_name">Keyless Parcel Counter Kiosk</string>
+    <string name="nav_str">Menu Items</string>
+    <string name="btn_main_menu">Home</string>
+    <string name="btn_store">Store A Parcel</string>
+    <string name="btn_retrieve">Retrieve A Parcel</string>
+    <string name="btn_help">Help</string>
+    <string name="btn_about_us">About Us</string>
+    //sub Navigation strings
+    <string name="btn_back">Back</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_done">Done</string>
+
+
+    <!--Help-->
+    <string name="define_storage_process">It allows you to store your parcel(s) in a secure storage unit,\n for ease of retrieval after shopping,\n
+        and you\'ll get a password; that let\'s you gain access to your parcels).</string>
+    <string name="define_retrieval_process">It let\'s you retrieve your parcel(s), your stored parcel(s)… when you done shopping,\n
+        you just have to select the storage unit you placed your item(s) in, and provide your password.</string>
+    <string name="btn_help_instructions_storing">
+        <p>When storing a parcel(s) in the storage unit…</p>\n
+        <p>Please <font color='#bc1142'><b>remember to close your storage unit door afterwards;</b></font>
+        \n <font color='#6ab344'><b>your storage unit will lock it self automatically</b></font>.
+        \n<font color='#bc1142'><b>Please check if your storage unit is locked.</b></font>
+        </p>
+    </string>
+    <string name="btn_help_instructions_retrieving">
+        <p>When retrieving a parcel(s) in the storage unit…</p>\n
+        <p>Please <font color='#bc1142'><b>remember to close your storage unit door afterwards</b></font>;
+        \n <font color='#6ab344'><b>the storage unit will lock it self automatically.</b></font>
+        </p>
+    </string>
+
+    <string name="app_status_default"><b>Please Select a Menu item</b>, \n
+        <font color='#aaff40b6'><small>by clicking a button on the left of your display.</small></font>
+    </string>
+
+    <string name="app_menu_item_title">Menu Items</string>
+
+    <!--Storage Unit Info Fragment-->
+    <string name="storage_unit_info">
+        <p><font color='#bc1142'><b>Please record your password.</b></font></p>
+        \n<p>Password will hide in a minute and a half!</p>
+        \n<p><font color='#6ab344'>Please remain here for a moment till your password hides…</font></p>
+        \n<p><font color='#bc1142'><b>then get to your storage unit; within 3 and a half minutes.</b></font></p>
+    </string>
+
+    <!--about us-->
+    <string name="app_about_us">
+        <p>This is an academic project; designed and developed by Students
+            \n at the
+            \n<b>Vaal University of Technology</b>.
+            \n
+            \nPowered by
+            \n<font color='#6ab344'><b>Android Things</b></font> and
+            <font color='#bc1142'><b>Raspberry Pi 3</b></font>
+        </p>
+    </string>
+    <string-array name="app_about_us_developers">
+        <item><font color='#aaff40b6'>K. Songa</font> : <b>Electronic Engineering Undergraduate</b></item>
+        <item><font color='#6ab344'>Clive F. Mgcina</font> : <b>Computer Systems Engineering Undergraduate</b></item>
+        <item><font color='#3F51B5'>N.P Baloyi</font> : <b>Electronic Engineering Undergraduate</b></item>
+        <item><font color='#bc1142'>Sizwe I. Mkhonza</font> : <b>Computer Systems Engineering Undergraduate</b></item>
+        <item>Mr. M Viljoen : Design Projects Instructor and Mentor</item>
+    </string-array>
+
+
+    <string name="token_storage_unit_number">
+        <p>Storage Unit</p>
+        \n
+        <font color='#bc1142'><b>1</b></font>
+    </string>
+
+    <!--Content loader -->
+    <string name="content_loader_processing">getting available storage units on it…</string>
+    <string name="content_loader_empty">no storage units present!</string>
+    <string name="content_loader_done">work is done…now showing storage units.</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="help_instruction_delay">5000</integer>
+    <integer name="help_instruction_repeat">5</integer>
+    <integer name="shopperLocateUnitDelay">210000</integer>
+    <integer name="storageMonitoringDuration">300000</integer>
+    <integer name="hideShopperPassphrase">90000</integer>
+    <integer name="retrievalMonitoringDuration">33000</integer>
+</resources>
