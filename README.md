@@ -40,6 +40,6 @@ Lastly, I would like to thank my group members, for their contribution towards t
             
 
 
-**_More Info is located at the wiki side of the repository._**
+**_More Info is located at the wiki side of this repository._**
 
 **Copyright 2018.**
