@@ -39,4 +39,7 @@ For their assistance with complex concepts, and we thank two “anonymous” Log
 Lastly, I would like to thank my group members, for their contribution towards this research.
             
 
-Copyright 2018.
+
+**_More Info is located at the wiki side of the repository._**
+
+**Copyright 2018.**
