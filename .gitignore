@@ -4,6 +4,9 @@ https://github.com/wastedMynd/KeylesStorageSystem-/*.png
 https://github.com/wastedMynd/KeylesStorageSystem-/*.PNG
 https://github.com/wastedMynd/KeylesStorageSystem-/*.gif
 
+# Compressed data
+*.zip
+
 # Built application files
 *.apk
 *.ap_
